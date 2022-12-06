@@ -1,6 +1,3 @@
-### Hi there 👋
-
-
 [![Jonathan's github stats](https://github-readme-stats.vercel.app/api?username=jonathanlaib)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
